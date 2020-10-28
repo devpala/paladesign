@@ -1,0 +1,115 @@
+.main-column-1 {
+  position: fixed;
+  min-height: 100vh;
+  max-height: 100vh;
+}
+
+.fs-input-pass {
+  letter-spacing: 4px;
+  font-size: 29px;
+  font-family: sans-serif;
+}
+
+/*
+  COPIAR Y PEGAR EN index.html
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Blinker&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Blinker|Domine&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rasa&display=swap" rel="stylesheet">
+*/
+/* FUENTES */
+.main-ff-1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.main-ff-2 {
+  font-family: 'Domine', serif;
+}
+
+.main-ff-3 {
+  font-family: 'Blinker', sans-serif;
+}
+
+.main-ff-4 {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.main-ff-5 {
+  font-family: "Maven Pro",Helvetica,Arial,sans-serif;
+}
+
+.main-ff-6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main-ff-7 {
+  font-family: 'Russo One', sans-serif;
+}
+
+/* COLORES */
+.main-c1 {
+  color: #f0b90b;
+}
+
+.main-c2 {
+  color: #0b0e11;
+}
+
+.main-c3 {
+  color: #39382e;
+}
+
+.main-c4 {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.main-c5 {
+  color: #646464;
+}
+
+.main-c6 {
+  color: #d4cbcb;
+}
+
+.main-c7 {
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.main-c8 {
+  color: #808080;
+}
+
+.main-c9 {
+  color: white;
+}
+
+.main-c10 {
+  color: black;
+}
+
+.main-back-1 {
+  background-color: #f0b90b;
+}
+
+.main-hover-1:hover {
+  background: #f7c934;
+}
+
+.main-back-2 {
+  background-color: #0b0e11;
+}
+
+.main-back-3 {
+  background-color: #39382e;
+}
+
+.main-back-4 {
+  background-color: rgba(0, 0, 0, 0.87);
+}
+
+.main-back-5 {
+  background-color: #12161c;
+}
+/*# sourceMappingURL=one.css.map */

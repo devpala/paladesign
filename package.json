@@ -1,0 +1,31 @@
+{
+  "name": "@pala/design",
+  "version": "2.4.5",
+  "description": "Una libreria de css facil de usar, facil de crear",
+  "scripts": {
+    "auto": "nano package.json && git add . && git commit -m \"commit automatico\" && git push origin master && npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpala/paladesign.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "grid",
+    "design",
+    "diseño",
+    "estilo",
+    "angular",
+    "react"
+  ],
+  "author": "Pala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RUPALAVECINO/PalaDesign/issues"
+  },
+  "homepage": "https://devpala.tech",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
