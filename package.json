@@ -1,6 +1,6 @@
 {
   "name": "@pala/design",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "description": "Una libreria de css facil de usar, facil de crear",
   "scripts": {
     "auto": "nano package.json && git add . && git commit -m \"commit automatico\" && git push origin master && npm publish --access=public",
