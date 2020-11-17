@@ -115,9 +115,17 @@ body {
 }
 .main-gg-30 {
  display:grid;
+ grid-gap:30%;
+}
+.main-gg-30p {
+ display:grid;
  grid-gap:30px;
 }
 .main-gg-40 {
+ display:grid;
+ grid-gap:40%;
+}
+.main-gg-40p {
  display:grid;
  grid-gap:40px;
 }
