@@ -645,6 +645,10 @@ body {
   .media-g {
     display:grid;
   }
+  .media-gg-30 {
+    display: grid;
+    grid-gap: 30%;
+  }
   .media-g-c-1 {
     display: grid;
     grid-template-columns: 1fr;
@@ -752,6 +756,9 @@ body {
   .media-mt-100 {
     margin-top:100%;
   }
+  .media-mt-120 {
+    margin-top:120%;
+  }
 /* MARGIN BOTTOM */
   .media-mb-10 {
     margin-bottom:10%;
@@ -782,6 +789,10 @@ body {
   }
   .media-mb-100 {
     margin-bottom:100%;
+  }
+  /* FONT-SIZE */
+  .media-fs-150 {
+    font-size:150%;
   }
 }
 
