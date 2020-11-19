@@ -642,6 +642,11 @@ body {
 
 /*  RESPONSIVE   */
 @media #{$iphone-x} {
+/* FONT-SIZE */
+  .media-fs-150 {
+    font-size:150%;
+  }
+/* GRID */
   .media-g {
     display:grid;
   }
@@ -790,9 +795,13 @@ body {
   .media-mb-100 {
     margin-bottom:100%;
   }
-  /* FONT-SIZE */
-  .media-fs-150 {
-    font-size:150%;
+
+  /* PADDING */
+  .media-pl-40p {
+    padding-left: 40px;
+  }
+  .media-pr-40p {
+    padding-right: 40px;
   }
 }
 
