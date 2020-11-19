@@ -643,6 +643,12 @@ body {
 /*  RESPONSIVE   */
 @media #{$iphone-x} {
 /* FONT-SIZE */
+  .media-fs-100 {
+    font-size:100%;
+  }
+  .media-fs-130 {
+    font-size:130%;
+  }
   .media-fs-150 {
     font-size:150%;
   }
