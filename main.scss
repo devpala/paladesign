@@ -405,6 +405,24 @@ body {
 .main-mb-50 {
   margin-bottom:50%;
 }
+.main-ml-15 {
+  margin-left:15%;
+}
+.main-ml-20 {
+  margin-left:20%;
+}
+.main-ml-25 {
+  margin-left:25%;
+}
+.main-mr-15 {
+  margin-right:15%;
+}
+.main-mr-20 {
+  margin-right:20%;
+}
+.main-mr-25 {
+  margin-right:25%;
+}
 .main-mt-5 {
   margin-top:5%;
 }
@@ -643,6 +661,7 @@ body {
 /*  RESPONSIVE   */
 @media #{$iphone-x} {
 /* FONT-SIZE */
+
   .media-fs-100 {
     font-size:100%;
   }
