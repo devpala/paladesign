@@ -32,6 +32,30 @@ $color-10:black;
 */
   
 /* FUENTES */
+/*   BOTONES   */
+.main-btn-1 {
+  color:$color-3;
+  border:none;
+  background:$color-1;
+  border-radius:6px;
+  font-weight: 700;
+  &:hover {
+    cursor:pointer;
+    background:#ddae13;
+  }
+}
+
+.main-btn-2 {
+  background: none;
+  border: none;
+  &:focus {
+    outline:none;
+  }
+  &:hover {
+    cursor: pointer;
+    outline: none;
+  }
+}
 .main-ff-1 {
   font-family: 'Roboto Slab', serif;
 }
