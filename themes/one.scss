@@ -30,7 +30,45 @@ $color-10:black;
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Rasa&display=swap" rel="stylesheet">
 */
-  
+  /* INPUT */
+.main-i-1 {
+  border:1px black dotted;
+  background: none;
+  border-bottom-left-radius:8px;
+  border-top-left-radius:8px;
+  text-align:center;
+}
+.main-i-2 {
+  border:1px black solid;
+  border-bottom-left-radius:8px;
+  border-top-left-radius:8px;
+}
+.main-i-3 {
+  border:1px black dotted;
+  border-radius: 8px;
+}
+.main-i-4 {
+  border:1px $color-4 solid;
+  border-radius: 8px;
+  padding-left: 2%;
+  &:focus {
+    outline:none;
+    border:1px $color-1 solid;
+  }
+  &:hover {
+    border:1px $color-1 solid;
+  }
+}
+.main-i-5 {
+  border:none;
+  background: none;
+  &:focus {
+    outline:none;
+  }
+  &:hover {
+    border:none;
+  }
+}
 /* FUENTES */
 /*   BOTONES   */
 .main-btn-1 {

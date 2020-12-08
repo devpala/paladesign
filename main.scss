@@ -487,45 +487,7 @@ body {
   padding: 50px;
 }
 
-/* INPUT */
-.main-i-1 {
-  border:1px black dotted;
-  background: none;
-  border-bottom-left-radius:8px;
-  border-top-left-radius:8px;
-  text-align:center;
-}
-.main-i-2 {
-  border:1px black solid;
-  border-bottom-left-radius:8px;
-  border-top-left-radius:8px;
-}
-.main-i-3 {
-  border:1px black dotted;
-  border-radius: 8px;
-}
-.main-i-4 {
-  border:1px $color-4 solid;
-  border-radius: 8px;
-  padding-left: 2%;
-  &:focus {
-    outline:none;
-    border:1px $color-1 solid;
-  }
-  &:hover {
-    border:1px $color-1 solid;
-  }
-}
-.main-i-5 {
-  border:none;
-  background: none;
-  &:focus {
-    outline:none;
-  }
-  &:hover {
-    border:none;
-  }
-}
+
 
 /*    TAMAÑO     */
 .main-w-30p {
@@ -598,6 +560,9 @@ body {
   height:50px;
 }
 .main-h-60p {
+  height:60px;
+}
+.main-h-80p {
   height:60px;
 }
 .main-h-90p {
