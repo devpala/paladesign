@@ -3,7 +3,27 @@
 // <link rel="preconnect" href="https://fonts.gstatic.com">
 // <link href="https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap" rel="stylesheet">
 
+$color-1:#000;
+$color-2:#000;
+$color-3:#000;
+$color-4:#000;
+$color-5:#e759ff;
 
+.main-c1 {
+    color:$color-1;   
+}
+.main-c2 {
+    color:$color-2;
+}
+.main-c3 {
+    color:$color-3;
+}
+.main-c4 {
+    color:$color-4;
+}
+.main-c5 {
+    color:$color-5;
+}
 
 .main-ff-1 {
     font-family: 'Anton', sans-serif;
