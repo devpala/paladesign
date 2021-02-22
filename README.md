@@ -45,4 +45,22 @@ using grid center top in the middle class="main-g-center-top"
                 justify-self:center;
                 align-self:start;
         }
-                .
+        
+class main-xx
+        
+     main-mt-xx (marign)
+     main-mb-xx (margin)
+     main-mr-xx (margin)
+     main-ml-xx ( margin-left:xx )
+     main-w-xxp ( width:xxp )
+     main-w-xx ( width: xx% )
+     main-h-xxp ( height: xxp )
+     main-h-xx ( heigth: xx% )
+     main-b-xx ( border:xx% )
+     main-center ( text-align:center )
+     main-fs-xx ( font-size:xx% )
+     
+claas media-xx for phone (max-width:812px)
+
+     media-fs-xx ( font-size:xx% )
+  
