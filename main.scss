@@ -351,6 +351,9 @@ body {
 .main-fs-200 {
   font-size:200%;
 }
+.main-fs-250 {
+  font-size: 250%;
+}
 .main-fs-300 {
   font-size:300%;
 }
@@ -401,6 +404,9 @@ body {
 }
 .main-mr-25 {
   margin-right:25%;
+}
+.main-mt-2 {
+  margin-top: 2%;;
 }
 .main-mt-5 {
   margin-top:5%;
@@ -784,6 +790,12 @@ body {
   }
 
   /* PADDING */
+  .media-pr-2 {
+    padding-right: 2%;;
+  }
+  .media-pl-2 {
+    padding-left: 2%;
+  }
   .media-pl-40p {
     padding-left: 40px;
   }
