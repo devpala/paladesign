@@ -29,19 +29,19 @@ class="main-center"
                 text-align:center;
         }
 
-using grid center center in the middle class="main-g-center"
+using grid center center in the middle class="main-g-cc"
 
         main.scss
         
-        .main-g-center {
+        .main-g-cc {
                 justify-self:center;
                 align-self:center;
         }
         
 
-using grid center top in the middle class="main-g-center-top"
+using grid center top in the middle class="main-g-ct"
         
-        .main-g-center-top {
+        .main-g-ct {
                 justify-self:center;
                 align-self:start;
         }
@@ -60,7 +60,7 @@ class main-xx
      main-center ( text-align:center )
      main-fs-xx ( font-size:xx% )
      
-claas media-xx for phone (max-width:812px)
+class media-xx for phone (max-width:812px)
 
      media-fs-xx ( font-size:xx% )
   

@@ -205,19 +205,23 @@ body {
   display:grid;
   grid-template-columns:repeat(20,1fr);
 }
-.main-g-center {
+//center-center
+.main-g-cc {
   justify-self:center;
   align-self:center;
 }
-.main-g-left-center {
+//left-center
+.main-g-lc {
   justify-self:left;
   align-self:center;
 }
-.main-g-right-center {
+//right-center
+.main-g-rc {
   justify-self:right;
   align-self:center;
 }
-.main-g-center-top {
+//center-top
+.main-g-ct {
   justify-self:center;
   align-self:start;
 }
